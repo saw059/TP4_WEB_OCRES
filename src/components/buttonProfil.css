@@ -1,0 +1,13 @@
+.buttonProfil{
+    margin: 1rem;
+    margin-top: O;
+    color: #2f2d2e;
+    font: bold;
+    background-color: white;
+    border: 2px solid #8e00b9;
+    padding: 0.6rem;
+    border-radius: 6px;
+    transition-duration: 0.5s;
+    animation: ease-in-out;
+    
+}

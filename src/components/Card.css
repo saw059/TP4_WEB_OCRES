@@ -1,0 +1,71 @@
+.Card{
+    
+    width: 600px;
+    height: 350px;
+    background: white;
+    border-radius: 10px;
+    box-shadow:0px 1px 10px black;
+}
+.footer{
+    width: 600px;
+    height: 100px;
+    background: white;
+    border-radius: 10px;
+    box-shadow:0px 1px 10px black;
+    
+
+
+}
+.upper-footer{
+    margin-top: 5px;
+    margin-left: 20px;
+    align-items: left;
+    transform: translate(50px,15px);
+
+}
+.lower-footer{
+    align-items: center;
+    transform: translate(450px,25px);
+}
+.upper-container{
+    height: 100px;
+    background:linear-gradient(to left,#2d00f7,#ff0291);
+
+}
+.image-container img{
+    
+    background: white;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    padding: 5px;
+    transform: translate(250px,45px);
+
+}
+img{
+    
+    border: 2px solid #8e00b9;
+}
+.lower-container{
+    margin-top: 80px;
+    height: 300px;
+    
+    text-align: center;
+}
+button{
+    margin: 1rem;
+    margin-top: O;
+    color: #2f2d2e;
+    font: bold;
+    background-color: white;
+    border: 2px solid #8e00b9;
+    padding: 0.6rem;
+    border-radius: 6px;
+    transition-duration: 0.5s;
+    animation: ease-in-out;
+}
+button:hover{
+    transform: scale(1,2);
+    border: none;
+    color: azure;
+}

@@ -1,0 +1,9 @@
+.App {
+  
+  display: flex;
+  width: 1000px;
+  height: 450px;
+  justify-content: center;
+  align-items: center;
+}
+
